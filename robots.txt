@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitdefendercentral-helpguide.github.io/sitemap.xml
